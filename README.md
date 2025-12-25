@@ -68,6 +68,3 @@ The system generates two output files:
 - **Asynchronous task execution** for improved performance
 - **Structured output** in JSON and Markdown formats
 
-## License
-
-MIT
